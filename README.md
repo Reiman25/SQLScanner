@@ -1,7 +1,7 @@
 # SQLScanner
 A simple automated tool that detects SQL injection vulnerabilities in websites.
 
-Key Features
+# Key Features
 - Scans web pages and HTML forms for SQL injection flaws
 
 - Detects error-based SQL injection using response analysis
